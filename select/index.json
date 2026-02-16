@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "サンフラワー",
+  "base_artist": "CHANMINA",
+  "createdAt": "2026-02-16T04:24:47.956124Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サンフラワー",
+      "artist": "Philosophy no Dance",
+      "has_synced": true,
+      "path": "select/01_サンフラワー_Philosophy_no_Dance.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サンフラワー",
+      "artist": "ちゃんみな",
+      "has_synced": false,
+      "path": "select/pl_01_サンフラワー_ちゃんみな.txt"
+    }
+  ]
+}
